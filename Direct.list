@@ -5,19 +5,10 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,aerianas.top
-DOMAIN-SUFFIX,sssyun.xyz
-DOMAIN-SUFFIX,qeayr.cn
-DOMAIN-SUFFIX,saojc.xyz   
-DOMAIN-SUFFIX,dler.cloud
-DOMAIN-SUFFIX,0tk8a3a1q4t94dler.com 
-DOMAIN-SUFFIX,wxda.net
-DOMAIN-SUFFIX,hkmlqxg.xyz
-DOMAIN-SUFFIX,qingtiantv888.xyz
-DOMAIN-SUFFIX,ynhtbank.com
-DOMAIN-SUFFIX,idsduf.com
 
+# 红杏
+DOMAIN-SUFFIX,hongxingdl.com
+DOMAIN-SUFFIX,hongxing.one
 # 快猫    
 DOMAIN-SUFFIX,quickcht3.club
 DOMAIN-SUFFIX,kuaimao2.club
@@ -35,7 +26,11 @@ DOMAIN-SUFFIX,4yfu73r3a4kl.com
 DOMAIN-SUFFIX,xiaoniuyun.cc  
 DOMAIN-SUFFIX,xiaoniuyun11.com
 DOMAIN-SUFFIX,oxeuro.xyz
-
+# 69
+DOMAIN-SUFFIX,zh.69yun69.com
+DOMAIN-SUFFIX,china.69yun69.com
+DOMAIN-SUFFIX,proxy-69.69yun69.com
+DOMAIN-SUFFIX,2proxy-69.69yun69.com
 # 硅谷
 DOMAIN-SUFFIX,huawei-cloud.shop
 DOMAIN-SUFFIX,huawei-cloud.vip
@@ -78,7 +73,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-
 
 # 58
 DOMAIN-SUFFIX,58.com
@@ -206,7 +200,6 @@ DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 
-
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,hc-cdn.com
@@ -218,7 +211,6 @@ DOMAIN-SUFFIX,huaweishop.net
 DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
-
 
 # Iqiyi
 DOMAIN-SUFFIX,71.am
@@ -384,7 +376,6 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
-
 
 
 # AccelerateDirectSites
