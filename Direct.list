@@ -64,20 +64,16 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 #Lucky DDNS
-DOMAIN-SUFFIX,https://speed.neu6.edu.cn/getIP.php
-DOMAIN-SUFFIX,http://v6.666666.host:66/ip
-DOMAIN-SUFFIX,https://www.taobao.com/help/getip.php
-DOMAIN-SUFFIX,https://6.ipw.cn
-DOMAIN-SUFFIX,https://ipv6.ddnspod.com
-DOMAIN-SUFFIX,https://v6.66666.host:66/ip
+DOMAIN-SUFFIX,speed.neu6.edu.cn
+DOMAIN-SUFFIX,taobao.com
 
-DOMAIN-SUFFIX,http://v4.666666.host:66/ip
-DOMAIN-SUFFIX,https://myip.ipip.net
-DOMAIN-SUFFIX,https://ipv4.ddnspod.com
-DOMAIN-SUFFIX,https://4.ipw.cn
-DOMAIN-SUFFIX,https://v4.66666.host:66/ip
-DOMAIN-SUFFIX,https://ip.3322.net
-DOMAIN-SUFFIX,https://6.66666.host:66/ip
+DOMAIN-SUFFIX,666666.host
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,ddnspod.com
+DOMAIN-SUFFIX,ipw.cn
+DOMAIN-SUFFIX,66666.host
+DOMAIN-SUFFIX,3322.net
+DOMAIN-SUFFIX,66666.host
 
 
 
