@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,hao123.com
 # 红杏
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,hongxing.one
+DOMAIN-SUFFIX,hongxing.love
 # 快猫    
 DOMAIN-SUFFIX,quickcht3.club
 DOMAIN-SUFFIX,kuaimao2.club
@@ -64,7 +65,6 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 #Lucky DDNS
-DOMAIN-SUFFIX,speed.neu6.edu.cn
 DOMAIN-SUFFIX,taobao.com
 
 DOMAIN-SUFFIX,666666.host
@@ -75,7 +75,11 @@ DOMAIN-SUFFIX,66666.host
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,66666.host
 
+#Github加速
+DOMAIN-SUFFIX,gh-proxy.com
 
+#教育
+DOMAIN-SUFFIX,edu.cn
 
 # 360
 DOMAIN-SUFFIX,360.com
