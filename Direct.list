@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,gh-proxy.com
 #教育
 DOMAIN-SUFFIX,edu.cn
 
+
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -637,3 +638,5 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+DOMAIN-SUFFIX,siments-zhst.com
