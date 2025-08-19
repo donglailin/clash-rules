@@ -638,3 +638,9 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# teach
+DOMAIN-SUFFIX,edu.cn
+
+# blog
+DOMAIN-SUFFIX,vsean.net
